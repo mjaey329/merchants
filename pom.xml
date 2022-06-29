@@ -24,7 +24,7 @@
 		<java.version>1.8</java.version>
 
 		<!-- excel处理库POI版本 -->
-		<poi.version>3.13</poi.version>
+		<poi.version>4.1.1</poi.version>
 
 	</properties>
 
